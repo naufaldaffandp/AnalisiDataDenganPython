@@ -15,7 +15,8 @@ Menjalankan Streamlit app (Saya menggunakan NPX localturner dikarenakan tidakbis
 !streamlit run app.py & npx localtunnel --port 850
 
 # kalo tidak bisa diklik dengan local host? Saya berikan Gambar juga biar urutan jelas....
-klik pada bagian yang berada pada lingkaran mearah, lalu copy External URL
+klik pada bagian yang berada pada lingkaran mearah, lalu copy External URL 
+(contoh terdapat pada gambar1)
 pada bagian yang berada pada lingkaran merah nnti akan dimasukkan kedalam link, masukkan link yang telah dicopy lalu hapus https:// dan hapus nomor setelah:
 (contoh terdapat pada gambar2)
 Setelah itu sudah jadi deh dashboardnya 
